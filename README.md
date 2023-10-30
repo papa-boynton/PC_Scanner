@@ -36,7 +36,7 @@ Keeps your PC healthy to help minimize Droptop/Rainmeter crashes.
 Download and install the app.  Click "Start PC Scan" to check your system or review the links above for more information.
 
 ## Download
-https://github.com/papa-boynton/PC_Scanner/releases/latest
+https://github.com/papa-boynton/PC_Scanner/releases/tag/latest
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton).
