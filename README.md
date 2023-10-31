@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/papa-boynton/PC_Scanner/blob/main/Images/LogoDark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/papa-boynton/PC_Scanner/blob/main/Images/LogoLight.png">
+    <a href="#"><source media="(prefers-color-scheme: dark)" srcset="/assets/Images/LogoDark.png" alt="Logo" width="200"></a>
+    <a href="#"><source media="(prefers-color-scheme: light)" srcset="/assets/Images/LogoLight.png" alt="Logo" width="200"></a>
   </picture>
-  <!--a href="#"><!--img src="Images/Logo.png" alt="Logo" width="200"--></a-->
+  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
   <br>
   PC Scanner - TheyCallMePapa
   <br>
