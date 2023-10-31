@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images/LogoDark.png">
-    <source media="(prefers-color-scheme: light)" srcset="Images/LogoLight.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/papa-boynton/PC_Scanner/blob/main/Images/LogoDark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/papa-boynton/PC_Scanner/blob/main/Images/LogoLight.png">
   </picture>
   <!--a href="#"><!--img src="Images/Logo.png" alt="Logo" width="200"--></a-->
   <br>
