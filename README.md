@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="Images/LogoDark.png">
     <source media="(prefers-color-scheme: light)" srcset="Images/LogoLight.png">
   </picture>
-  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <!--a href="#"><!--img src="Images/Logo.png" alt="Logo" width="200"--></a-->
   <br>
   PC Scanner - TheyCallMePapa
   <br>
