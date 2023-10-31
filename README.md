@@ -2,7 +2,7 @@
 
 
   <br>
-  <a href="#"><img style="-webkit-filter : hue-rotate(180deg);filter : hue-rotate(180deg);" src="Images/Logo.png" alt="Logo" width="200"></a>
+  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
   <br>
   PC Scanner - TheyCallMePapa
   <br>
